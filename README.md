@@ -1,4 +1,4 @@
-# nodejs-project-dockerr
+# nodejs-project-docker
 
 Overview:
 This repository contains a simple Node.js application deployed using Docker. The app runs an HTTP server and serves a response when accessed.
